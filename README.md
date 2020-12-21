@@ -1,5 +1,5 @@
 # MergeSort
 Zaverecny projekt na predmet PIA1.
 Autori:
-Helena Picmausová
+Helena Picmausová,
 Jiří Zalabák
